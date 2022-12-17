@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-summary-card-YQneUQ_V9Y)
-- Live Site URL: [Live Preview](https://legendary-kataifi-7e59bb.netlify.app)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-kUqXIL3OBY)
+- Live Site URL: [Live Preview](https://precious-rugelach-c77734.netlify.app/)
 
 ## My process
 
@@ -47,10 +47,10 @@ I Learned About Flex and AfterBefore and Hover Selectors In Ths Project.
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me finally understand Backgrounds. I'd recommend it to anyone still learning this concept.
+- [MDN Mozilla](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me finally understand Backgrounds. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
 - Linkedin - [Zaid Ahmed](https://www.linkedin.com/in/zaidahmed2345/)
 - Frontend Mentor - [@ZaidAhmed2003](https://www.frontendmentor.io/profile/ZaidAhmed2003)
-- GitHub - [@yourusername](https://github.com/ZaidAhmed2003)
+- GitHub - [@ZaidAhmed2003](https://github.com/ZaidAhmed2003)
